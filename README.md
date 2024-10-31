@@ -34,7 +34,6 @@ VideoDownloader/
 ├── main_window.ui           # PyQt5 .ui file for the GUI layout
 ├── README.md                # Project overview, installation, usage, and contributions
 ├── requirements.txt         # List of required packages for easy installation
-├── LICENSE                  # License file (optional, depending on your preference)
 └── images/
     ├── tiktok.png           # Image assets used in the application
     ├── twitter.jpg
